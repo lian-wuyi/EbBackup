@@ -1,44 +1,112 @@
 # EbBackup
 
-**Database Backup & Recovery Software**
+> Database Backup & Recovery Software
 
-EbBackup is a database backup and recovery application designed to help individuals, developers, and businesses manage and protect their database backups.
+EbBackup is a database backup and recovery tool designed for individuals, developers, and businesses.  
+It helps users protect important data with scheduled backups, backup management, and recovery features.
+
+---
+
+## Official Website
+
+🌐 Website: [https://www.ebbackup.cn/](https://www.ebbackup.cn/)
+
+## Purchase License
+
+🛒 Taobao Store: [https://ebong.world.taobao.com/](https://ebong.world.taobao.com/)
+
+---
+
+## Download
+
+Please download the latest installer from the **Releases** section:
+
+[⬇ Download Latest Release](../../releases/latest)
+
+---
 
 ## Key Features
 
 - Scheduled automatic database backups
 - Backup history and file management
 - Database backup and recovery
+- Easy-to-use interface
 - License activation for commercial use
-- Designed for database administrators and business users
+- Designed for developers, DBAs, and business users
 
-## Download
+---
 
-Download the latest Windows installer from the **Releases** section.
+## Screenshots
+
+> You can place your screenshots in the `/images` folder of this repository.
+
+### Main Interface
+![EbBackup Main Interface](./images/ebbackup-main.png)
+
+### Backup Task Management
+![EbBackup Backup Task](./images/ebbackup-task.png)
+
+### Backup History
+![EbBackup Backup History](./images/ebbackup-history.png)
+
+---
+
+## Why Choose EbBackup
+
+- Simple and practical
+- Suitable for daily database backup work
+- Easy deployment and quick start
+- Commercial licensing supported
+- Official website and purchase channel available
+
+---
 
 ## Licensing
 
-EbBackup is proprietary commercial software, not an open-source project.
+EbBackup is **proprietary commercial software**.
 
-Users can download and install the application. Commercial features require a valid license.
+- This repository is used for product introduction and software distribution.
+- The software installer is publicly downloadable.
+- Source code is **not open source**.
+- Commercial use may require a valid license.
+
+---
 
 ## Support
 
-For product information, license purchases, and technical support, please contact the official EbBackup sales and support channels.
+For product details, purchase, and technical support, please visit:
+
+- Official Website: [https://www.ebbackup.cn/](https://www.ebbackup.cn/)
+- Taobao Store: [https://ebong.world.taobao.com/](https://ebong.world.taobao.com/)
 
 ---
 
 ## 中文介绍
 
-EbBackup 是一款面向个人开发者、数据库管理员及企业用户的数据库备份与恢复软件，致力于简化数据库备份管理工作。
+EbBackup 是一款数据库备份与恢复工具，适用于个人开发者、数据库管理员以及企业用户。
 
-主要功能包括：
+主要特点：
 
-- 数据库定时自动备份
-- 备份历史记录管理
-- 数据库备份与恢复
-- 商业许可证激活
+- 支持数据库定时自动备份
+- 支持备份历史记录管理
+- 支持数据库恢复管理
+- 支持商业授权激活
+- 操作简单，适合日常备份管理
 
-**本项目为闭源商业软件，不提供源代码。**
+### 官网
+[https://www.ebbackup.cn/](https://www.ebbackup.cn/)
 
-请通过 GitHub Releases 下载最新安装包，通过官方销售渠道购买许可证。
+### 购买授权
+[https://ebong.world.taobao.com/](https://ebong.world.taobao.com/)
+
+### 下载地址
+请前往本仓库 **Releases** 页面下载最新安装包。
+
+---
+
+## Release Notes
+
+### v1.2.0
+- Public release of EbBackup
+- Installer available for download
+- Product introduction and official links added
