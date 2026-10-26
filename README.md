@@ -41,13 +41,13 @@ Please download the latest installer from the **Releases** section:
 > You can place your screenshots in the `/images` folder of this repository.
 
 ### Main Interface
-![EbBackup Main Interface](./images/ebbackup-main.png)
+![EbBackup Main Interface](./ebbackup-main.png)
 
 ### Backup Task Management
-![EbBackup Backup Task](./images/ebbackup-task.png)
+![EbBackup Backup Task](./ebbackup-task.png)
 
 ### Backup History
-![EbBackup Backup History](./images/ebbackup-history.png)
+![EbBackup Backup History](./ebbackup-history.png)
 
 ---
 
